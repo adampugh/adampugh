@@ -1,8 +1,8 @@
-- 👋 Hi, I’m a Frontend Developer
-
 <p align="center">
 
-<iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+- 👋 Hi, I’m a Frontend Developer
+
+![Alt Text](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 ### <center>Tech Stack</center>
 
@@ -29,14 +29,8 @@
 ![image](https://img.shields.io/badge/-Threejs-000000?logo=three.js&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/-D3js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge)
 
-</p>
-
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-adampugh/adampugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
