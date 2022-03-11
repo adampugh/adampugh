@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
+<img width="300px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
 
 <div align="center">
-  <img src="https://www.codewars.com/users/AP90/badges/micro" />
+  <img  src="https://www.codewars.com/users/AP90/badges/micro" />
 </div>
 
 #### <h3 align="center">Tech Stack</h3>
