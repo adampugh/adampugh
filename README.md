@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @adampugh
 - Tech stack
+![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 - 👀 I’m interested in ...
