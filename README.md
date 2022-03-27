@@ -1,5 +1,8 @@
+
+
 <p align="center">
 <img width="300px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
+  
 
 <div align="center">
   <img  src="https://www.codewars.com/users/AP90/badges/micro" />
@@ -46,6 +49,12 @@
   <img src="https://img.shields.io/badge/-Threejs-000000?logo=three.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-D3js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
 </div>
+</br>
+
+<!-- <div align="center">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampugh&langs_count=8&layout=compact" />
+</div> -->
+
 </p>
 
 </br>
