@@ -11,8 +11,8 @@
 
 <div align="center">
   <p>Hi, I'm Adam 👋 </p>
-  <p> 💻 I’m interested in anything React or JavaScript related</p>
-  <p> 🌵 I’m currently learning Three.js, solidity and D3.js</p>
+  <p> 💻 Interested in anything React or JavaScript related</p>
+  <p> 🌵 Currently learning Three.js, solidity and D3.js</p>
   <p> 📫 Get in touch <a href="https://www.linkedin.com/in/adam-pugh-59502b88/" target="_blank"><img src="https://img.shields.io/badge/--white?logo=linkedIn&logoColor=black&style=flat-square" alt="linkedin"/></a>
   </p>
 </div>
