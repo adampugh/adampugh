@@ -51,10 +51,11 @@
 </div>
 </br>
 
+<!--
 <div align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampugh&langs_count=8&layout=compact" />
 </div>
-
+-->
 
 </p>
 
