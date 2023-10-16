@@ -50,11 +50,11 @@
   <img src="https://img.shields.io/badge/-D3js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
 </div>
 </br>
-<!--
+
 <div align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adampugh&langs_count=8&layout=compact" />
 </div>
--->
+
 </p>
 
 </br>
