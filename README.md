@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Threejs-000000?logo=three.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
 </div>
 
 </br>
@@ -46,7 +50,6 @@
 #### <h3 align="center">Currently Learning</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Threejs-000000?logo=three.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-D3js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge" />
 </div>
 </br>
