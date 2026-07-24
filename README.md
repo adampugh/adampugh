@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
