@@ -1,3 +1,4 @@
+
 <p align="center">
 <img width="300px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" />
   
@@ -17,6 +18,7 @@
 </br>
 
 #### <h3 align="center">Tech Stack</h3>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
