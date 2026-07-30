@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge" />
 </div>
 
 </br>
