@@ -18,7 +18,6 @@
 
 #### <h3 align="center">Tech Stack</h3>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -62,12 +61,8 @@
 </p>
 
 </br>
-
-
 <!--- 381 PRs NOV23 --->
-
 <!---
 adampugh/adampugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
